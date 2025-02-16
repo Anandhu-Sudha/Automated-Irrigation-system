@@ -1,5 +1,5 @@
 # Automated-Irrigation-system
-Time Based Irrigation System for Garden
+Time Based Irrigation System for Garden.
 
 15-Jan-2025
 
