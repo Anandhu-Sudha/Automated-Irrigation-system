@@ -43,7 +43,34 @@ https://github.com/user-attachments/assets/d282a47e-b90c-4c0e-b068-9b7772ff7a53
 
 <b>Code :</b> 
 
-Code for each components is in the file directory. <b>HAVE TO SET TIME IN THE RTC MODULE FIRST!</b>
+Code for each components is in the code directory. <b>HAVE TO SET TIME IN THE RTC MODULE FIRST!</b>
+
+open after connecting the circuit as shown, It's time to check the components:
+
+(Step by step execution of projects are alwyas better, so it'll be easy to debug where it went wrong.)
+
+<b>1. LCD Module Interfacing</b>
+Install the required libraries (uploaded in the file directory) into the directories in your PC. 
+Open the " lcdtest.ino " flash it into UNO. Check if the LCD is working correctly 
+
+<b>2. Button Interfacing </b>
+Open " button_lcd_check.ino " and dump it into UNO. Press the switch and observe if the o/p is displaying in the LCD or not.
+
+<b>3. for setting the time in the rtc module</b>
+Open " time_setting.ino " and dump it into UNO. once flashed don't open the serial monitor, it'll reset every time when  the serial monitor is opened. after flashing do the next step and observe the time in the serial monitor from there.
+
+<b>4. Observe the Time in the LCD </b>
+Open " time_with_lcd.ino " and dump it into UNO. Check if the time is displaying in the LCD.
+
+<b>5. Final Code uploading </b>
+If all the components are interfaced correctly , then upload the " product_form_final.ino " in the UNO. That's it.
+
+( Some other codes for time based triggering are also included, if you want to use this for another project you can refer it. )
+
+
+
+
+
 
 final code 👇
 
