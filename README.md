@@ -22,7 +22,7 @@ The goal was to build a system to irrigate the vegetable cultivating field for 5
 
 <b>Construction :</b> 
 
-<img src="https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/65d8ae9d3b229453c2fd5fe494873a9b7b530c62/pictures/circuit.jpg" width="800" height="1000">
+![image alt](https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/65d8ae9d3b229453c2fd5fe494873a9b7b530c62/pictures/circuit.jpg)
 
 Testing the DS3231 Module and LCD Module 
 
@@ -30,12 +30,12 @@ https://github.com/user-attachments/assets/84f09e80-5f40-4a52-8120-7d0089d3529f
 
 Customized Box for enclosing the circuits board and components 👇 
 
-<img src="https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/1cff3228ff653ee4b8799041de4c6894bd1969de/pictures/20250117_083619.jpg" width="600" height="400">
+![image alt](https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/1cff3228ff653ee4b8799041de4c6894bd1969de/pictures/20250117_083619.jpg)
 
 Components fixed in the zero pcb for ease for connectivity and sturdiness
 
-<img src="https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/1cff3228ff653ee4b8799041de4c6894bd1969de/pictures/20250117_083623.jpg" width="600" height="400">
-<img src="https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/1cff3228ff653ee4b8799041de4c6894bd1969de/pictures/20250117_142957.jpg" width="600" height="400">
+![image alt](https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/1cff3228ff653ee4b8799041de4c6894bd1969de/pictures/20250117_083623.jpg)
+<![image alt](https://github.com/Anandhu-Sudha/Smart-Irrigation-system/blob/1cff3228ff653ee4b8799041de4c6894bd1969de/pictures/20250117_142957.jpg)
 
 One final check before closing the box. 👇
 
