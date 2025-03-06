@@ -10,6 +10,7 @@ Smart Irrigation System using RTC module.
 The goal was to build a system to irrigate the vegetable cultivating field for 5 mins with a 1 one hour interval. There's two channel for system, both are connected to solenoid valves. From morning 7 AM channel 1 will work for 5 min and at 8 AM channel 2 will work for 5 min. Like this it will work alternatively in 1 hour interval till 7 PM.
 
 Working video:
+
 https://github.com/user-attachments/assets/3704e4c9-81c8-456f-813d-f6337def3369
 
 
